@@ -14,9 +14,9 @@ import sys
 logging.basicConfig(level=logging.INFO)
 
 
-API_TOKEN = '7094558036:AAEH_A-m_F6_dWzC3kPRxjBLpRx_xJIIBns'
+API_TOKEN = '7119517186:AAGkpy6jd4_06kwIw7kzoF393iz-PLeFjLo'
 
-ADMIN_ID = 5388498987
+ADMIN_ID = 6034827272
 
 AUTHORIZED_USERS = {}
 
